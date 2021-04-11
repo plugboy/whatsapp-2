@@ -1,6 +1,7 @@
 import firebase from 'firebase'
 
 // Todo: this should be implemented in server side
+// Trying Vercel Secret
 
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_API_KEY,
