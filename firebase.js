@@ -1,5 +1,7 @@
 import firebase from 'firebase'
 
+// Todo: this should be implemented in server side
+
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_API_KEY,
   authDomain: process.env.NEXT_PUBLIC_AUTH_DOMAIN,
